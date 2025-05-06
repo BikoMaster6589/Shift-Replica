@@ -1,0 +1,6 @@
+This project is a duplication of the home page of (https://theshifttokyo.com) website.
+It aims to replicate the design of the original website for learning and practice purpose.
+
+
+This project serves as a learning exercise to understand the structure and design of the original website, "theshifttokyo.com". By duplicating the website, we aim to gain insights into modern web development techniques, including HTML, CSS, JavaScript, and possibly frameworks or libraries used in the original website.
+
